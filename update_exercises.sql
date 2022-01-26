@@ -14,4 +14,4 @@ USE codeup_test_db;
 # SELECT 'All albums by Michael Jackson' AS 'INFO';
 # SELECT * FROM albums WHERE artist = 'Michael Jackson';
 # UPDATE albums SET artist = 'Peter Jackson' WHERE artist = 'Michael Jackson';
-# SELECT * FROM albums WHERE artist = 'Peter Jackson';
+# SELECT * FROM albums WHERE artist = 'Peter Jackson';                                                                     mnb
